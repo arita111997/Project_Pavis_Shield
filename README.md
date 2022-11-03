@@ -1,4 +1,4 @@
-# project_shield_Pavis
+# project_Pavis_Shield
 An open access archive where everyone can place their own documents, objects, among others 
 The project aims to safeguard any type of archival collection in a safe place where it can be studied by others to benefit science.
 
